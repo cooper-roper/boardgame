@@ -1,0 +1,70 @@
+Classes:
+
+-CardParser class
+	+Parse cards.xml
+	+Create a list of Card objects
+
+-SetParser class
+	+Parse board.xml
+	+Create a list of Set objects
+
+-Deadwood class
+	+Main class that starts the game
+	+Read number of players from command line, if given
+	+Initialize view
+
+-GameDataParser class
+	+Get doc from xml file
+	+Return the root node of the document
+
+-IArea Interface
+	+methods that return data for area like objects
+
+-ICard interface
+	+Methods that return card values
+
+-IRole interface
+	+Methods that return role values
+
+-ISet interface
+	+Methods that return set values
+
+-ISetScene interface
+	+Methods that return scene set values
+
+-SetParser class
+	+Parse board.xml
+	+Create a list of Set objects
+
+-BoardView class
+	+Creates UI for deadwood
+	+Creates control panel
+	+Shows players info
+	+Mouse click event
+ 
+-SetView Class
+	+Draws set 
+ 
+-Player Class
+	+Holds player information such as: dollars, rank, room, credits, name, 
+	+Includes following actions: move, act, rehearse, upgrade, take role
+
+-Dice Class
+	+Rolls for a number between 1-6
+
+-Casting Office Class
+	+Checks if player can upgrade
+	+Provides list of available ranks
+
+-Room Class
+	+Contains scene set, card, and number of act
+	+Update the players
+	+Update the scene shots
+	+end the room
+
+-Board Class
+	+Number of total rooms and days
+	+List of rooms
+	+Resets board
+	+Updates number of rooms
+	+ends the day

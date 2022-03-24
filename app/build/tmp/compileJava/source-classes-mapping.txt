@@ -1,0 +1,66 @@
+cs345/deadwood/controller/IController.java
+ cs345.deadwood.controller.IController
+cs345/deadwood/view/TakesView.java
+ cs345.deadwood.view.TakesView
+cs345/deadwood/model/Card.java
+ cs345.deadwood.model.Card
+cs345/deadwood/model/ISet.java
+ cs345.deadwood.model.ISet
+cs345/deadwood/model/Area.java
+ cs345.deadwood.model.Area
+cs345/deadwood/model/GameDataParser.java
+ cs345.deadwood.model.GameDataParser
+cs345/deadwood/model/Role.java
+ cs345.deadwood.model.Role
+cs345/deadwood/view/SetCastingOfficeView.java
+ cs345.deadwood.view.SetCastingOfficeView
+cs345/deadwood/controller/GameController.java
+ cs345.deadwood.controller.GameController
+cs345/deadwood/model/IModel.java
+ cs345.deadwood.model.IModel
+cs345/deadwood/model/IRole.java
+ cs345.deadwood.model.IRole
+cs345/deadwood/model/IArea.java
+ cs345.deadwood.model.IArea
+cs345/deadwood/model/ICard.java
+ cs345.deadwood.model.ICard
+cs345/deadwood/model/SetCastingOffice.java
+ cs345.deadwood.model.SetCastingOffice
+cs345/deadwood/view/RoleView.java
+ cs345.deadwood.view.RoleView
+cs345/deadwood/model/CardParser.java
+ cs345.deadwood.model.CardParser
+cs345/deadwood/model/GameLog.java
+ cs345.deadwood.model.GameLog
+cs345/deadwood/view/BlankAreaView.java
+ cs345.deadwood.view.BlankAreaView
+cs345/deadwood/view/BoardView.java
+ cs345.deadwood.view.BoardView
+cs345/deadwood/model/GameEngine.java
+ cs345.deadwood.model.GameEngine
+cs345/deadwood/model/SetBuilder.java
+ cs345.deadwood.model.SetBuilder
+cs345/deadwood/view/SetSceneView.java
+ cs345.deadwood.view.SetSceneView
+cs345/deadwood/Deadwood.java
+ cs345.deadwood.Deadwood
+cs345/deadwood/model/Take.java
+ cs345.deadwood.model.Take
+cs345/deadwood/model/SetParser.java
+ cs345.deadwood.model.SetParser
+cs345/deadwood/model/SetTrailer.java
+ cs345.deadwood.model.SetTrailer
+cs345/deadwood/model/Player.java
+ cs345.deadwood.model.Player
+cs345/deadwood/view/SetTrailerView.java
+ cs345.deadwood.view.SetTrailerView
+cs345/deadwood/model/SetScene.java
+ cs345.deadwood.model.SetScene
+cs345/deadwood/view/IModelObserver.java
+ cs345.deadwood.view.IModelObserver
+cs345/deadwood/model/BlankArea.java
+ cs345.deadwood.model.BlankArea
+cs345/deadwood/model/ISetScene.java
+ cs345.deadwood.model.ISetScene
+cs345/deadwood/view/PlayerView.java
+ cs345.deadwood.view.PlayerView
